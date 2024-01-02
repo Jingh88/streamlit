@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 bank_data=pd.DataFrame({
     '은행':['국민은행','국민은행','국민은행','국민은행','국민은행','국민은행',
